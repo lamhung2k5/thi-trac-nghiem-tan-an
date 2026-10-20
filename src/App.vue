@@ -12,7 +12,8 @@
         </h1>
 
         <p class="text-secondary mb-4">
-          Website đang trong quá trình xây dựng.
+          alo việt nam
+          .
           Đây là phiên bản thử nghiệm đầu tiên.
         </p>
 
